@@ -1,0 +1,1 @@
+# Arabic-text-Recognition-then-convert-text-to-speech
